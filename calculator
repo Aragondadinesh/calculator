@@ -3,3 +3,6 @@ don't worry i will try muck them
 this is third commit
 this fourth commit
 hello jagan
+git remote add origin "Location"
+git push origin master
+git branch
